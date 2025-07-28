@@ -1,0 +1,126 @@
+Name,Job Title,Company,Experience,Skills,Unstructured Text,Named Entities,Lead Type,Generated Email,skill_count,exp_count,Cluster,Email Sentiment
+Pavithra Arjunan,machine learning,seewise,"['ml data associate at seewise (2022 - present)', 'ml intern at ai s&s (2021 - 2022)']","['python', 'sql', 'power bi', 'machine learning']","pavithra arjunan is currently working as a machine learning at seewise. Experience includes: ml data associate at seewise (2022 - present); ml intern at ai s&s (2021 - 2022). Skilled in: python, sql, power bi, machine learning.","[('pavithra arjunan', 'PERSON'), ('2022 - present', 'MONEY'), ('ai s&s', 'ORG'), ('2021 - 2022', 'DATE')]",AI,"Subject: Vacant Machine Learning Engineer Vacancy at Seewise for Pavithra Arjunan
+
+Dear Pavithra,
+
+I am writing to bring to your attention our company Seewise, a CCS company, who is currently looking for a Machine Learning Engineer with the following set of skills.
+
+Job Title: Machine Learning Engineer
+
+Job Description:
+We are seeking a skilled and dynamic Machine Learning Engineer with a proven track record of delivering successful projects, preferably with experience in Python, SQL, Power BI, Machine Learning.
+
+Industry Experience:
+- 5+ years of experience in developing machine learning applications and models for predictive analysis.
+- Experience in creating models for a wide range of industries, including healthcare, finance, logistics, and retail.
+
+Skills:
+- Python (preferably using PyTorch or TensorFlow), SQL, Power BI
+- Experience in creating and deploying models using machine learning libraries such as Scikit-learn, TensorFlow, or PyTorch.
+- Familiarity with various machine learning algorithms such as Linear Regression, Logistic Regression, Neural Networks, Random Forest, and Gradient Boosting.
+
+Compensation & Benefits:
+We offer a competitive salary package and a flexible work environment to our employees",4,2,0,Neutral
+Rahul Mehra,ai engineer,infosys,"['ai engineer at infosys (2021 - present)', 'data scientist at datagen (2019 - 2021)']","['tensorflow', 'keras', 'data science', 'deep learning']","rahul mehra is currently working as a ai engineer at infosys. Experience includes: ai engineer at infosys (2021 - present); data scientist at datagen (2019 - 2021). Skilled in: tensorflow, keras, data science, deep learning.","[('rahul mehra', 'PERSON'), ('2021', 'DATE'), ('2019 - 2021', 'DATE')]",AI,"Subject: Application for Vacant AI Engineer Role in CCS, Infosys
+
+Dear Rahul Mehra,
+
+I am writing to express my interest in the role of AI Engineer at CCS, Infosys. As a highly skilled professional, I believe that you will find my skills and experience to be an asset to the organization.
+
+My background is a combination of a Bachelor's degree in Computer Science and a Master's degree in Engineering from an esteemed university. As an experienced AI Engineer, I have hands-on experience in developing, implementing, and maintaining state-of-the-art AI systems.
+
+One of my key strengths is the use of tensorflow, which is a widely accepted framework for deep learning. I have also developed and deployed deep learning models for various industries, including healthcare, finance, and retail.
+
+In addition to my technical skills, I possess strong analytical and problem-solving abilities. My experience in data science and data analytics enables me to effectively analyze data and identify patterns, leading to efficient decision-making.
+
+I am confident that my skills and experience will be a great fit for this role, and I look forward to the opportunity to showcase my abilities.
+
+Thank you for your time and consideration. I look forward to discussing my application further with you.
+
+Sin",4,2,0,Positive
+Ananya Iyer,business analyst,deloitte,"['full stack developer at deloitte (2020 - present)', 'ui/ux developer at ey (2018 - 2020)']","['excel', 'power bi', 'business strategy', 'sql']","ananya iyer is currently working as a business analyst at deloitte. Experience includes: full stack developer at deloitte (2020 - present); ui/ux developer at ey (2018 - 2020). Skilled in: excel, power bi, business strategy, sql.","[('ananya', 'GPE'), ('deloitte', 'ORG'), ('deloitte', 'ORG'), ('2020', 'DATE'), ('2018 - 2020', 'DATE')]",Decision Maker,"Subject: Inquiry regarding Vacant Position for Business Analyst at CCS Company
+
+Dear Ananya,
+
+I hope this email finds you well. I am Kamashi, a professional HR, and I am writing this email to express my interest in learning more about the vacant position for a business analyst at CCS Company.
+
+As a professional HR, I am familiar with the company's core values and culture, and I believe that the position you are hiring for is a crucial one that will contribute towards your company's success. I am confident that I possess the skills required to fill the position, as I have demonstrated through my experience in similar roles.
+
+I am interested in learning more about the position, including the job title, location, responsibilities, and salary package. I am eager to answer any questions you may have, and I look forward to learning more about the company and the position.
+
+In terms of skills, I have over eight years of experience in excel, power bi, business strategy, and sql. I have worked on various projects in the past and have a deep understanding of how those projects relate to the company's goals and objectives. I am a proactive and collaborative team player, and I have excellent communication and problem-solving skills.
+
+I am available to visit the company's office on Thursday, May 12, from",4,2,0,Positive
+Vikram Raj,software developer,wipro,"['software developer at wipro (2021 - present)', 'software intern at codecraft (2019 - 2021)']","['java', 'spring boot', 'rest apis', 'git']","vikram raj is currently working as a software developer at wipro. Experience includes: software developer at wipro (2021 - present); software intern at codecraft (2019 - 2021). Skilled in: java, spring boot, rest apis, git.","[('2021', 'DATE'), ('2019 - 2021', 'DATE'), ('java', 'PERSON'), ('spring', 'DATE')]",Technical,"Subject: Application for the vacant role of Software Developer in Wipro
+
+Dear Sir/Madam,
+
+I am Kamashi, a professional HR working for CCS Company, Wipro. I am writing to express my interest in the vacant role of Software Developer that may be open in your esteemed organization.
+
+As a professional in the software industry, I have extensive experience in developing software applications using Java, Spring Boot, and REST APIs. I have also worked on building scalable web applications using Node.js, Express, and MongoDB. Additionally, I have experience in implementing agile methodologies and managing project teams effectively.
+
+I am confident that my skills and experience match the job requirements of the Software Developer role. As a Java developer, I have worked on developing enterprise-level applications for CCS, and I have extensive experience in integrating Spring Boot and REST APIs.
+
+I am eagerly waiting to hear back from you on this opportunity, and I will be willing to go through the full application process to ensure a smooth transition into your organization.
+
+Thank you for your time and consideration. I look forward to hearing back from you soon.
+
+Best Regards,
+
+[Your Name]
+
+[Your Designation]
+
+[CC: Email Addresses]
+[Your Name]
+
+[Your Contact Information]",4,2,0,Positive
+Neha Sharma,cloud engineer,amazon web services,"['cloud engineer at aws (2022 - present)', 'devops intern at cloudkart (2021 - 2022)']","['aws', 'docker', 'kubernetes', 'linux']","neha sharma is currently working as a cloud engineer at amazon web services. Experience includes: cloud engineer at aws (2022 - present); devops intern at cloudkart (2021 - 2022). Skilled in: aws, docker, kubernetes, linux.","[('neha sharma', 'PERSON'), ('2022 - present', 'MONEY'), ('2021 - 2022', 'DATE')]",Technical,"Subject: Searching for a Cloud Engineer for a CCS company
+
+Dear @Neha Sharma,
+
+I am excited to share that I have received your recent email regarding the available vacancy for a Cloud Engineer at our CCS company. I am a professional HR, and I am very happy to assist you in this matter.
+
+Informing you about my expertise, I have over nine years of experience in handling the role of a Cloud Engineer. My skills related to the job title include AWS, Docker, Kubernetes, and Linux.
+
+I have worked extensively with cloud technologies, and I am capable of handling cloud-based infrastructure and services. In my previous role as a cloud engineer, I have achieved significant growth in my career by delivering high-quality solutions to multiple clients.
+
+I am a dedicated and hardworking professional who thrives in a fast-paced environment. My experience in AWS and Kubernetes has helped me in configuring and managing cloud-based infrastructure.
+
+Specifically, I have implemented and managed various Kubernetes clusters, which have enabled me to handle complex workloads. I am proficient in AWS Lambda and S3, and I have also worked with Docker Swarm, ECS, and EKS.
+
+I am a passionate learner, and I always aim to stay updated with the latest technologies and trends in",4,2,0,Positive
+Riya,human resource,amazon web services,"['hr at aws (2024 - present)', 'hr intern at cloudkart (2022 - 2024)']","['interpersonal skills', 'communication', 'organizational skills', 'problem-solving']","riya is currently working as a human resource at amazon web services. Experience includes: hr at aws (2024 - present); hr intern at cloudkart (2022 - 2024). Skilled in: interpersonal skills, communication, organizational skills, problem-solving.","[('riya', 'ORG'), ('2024', 'DATE'), ('2022 - 2024', 'DATE')]",HR,"Subject: Application for Vacant Leadership Position
+
+Dear Riya,
+
+Thank you for your dedication and commitment to Amazon Web Services (AWS) in the past. I am writing to apply for the vacant leadership position in your esteemed organization.
+
+As a highly skilled and experienced HR professional with over 10 years of experience, I am confident that my skills, expertise, and qualifications make me a strong candidate for this role. With my expertise in interpersonal skills, communication, organizational skills, and problem-solving, I am confident that I can contribute significantly to AWS's mission and goals.
+
+As a leader, I believe that I bring a unique perspective to the role, with the ability to lead a team of staff and employees to achieve our objectives. I am adept at building strong relationships with employees and stakeholders, which enables me to foster a positive work environment and drive productivity.
+
+As an experienced HR professional, I have worked with a diverse range of teams, managing various HR functions, including recruitment, performance management, and employee relations. I am confident that my experience and expertise will enable me to drive organizational change, improve employee engagement, and enhance the overall organizational culture.
+
+I am confident that AWS's mission aligns with my personal values and vision, and I am excited to join",4,2,0,Positive
+Devi,ceo,devi software pvt ltd,"['hr at avni pvt (2024 - present)', 'hr intern at cloudkart (2022 - 2024)']","['interpersonal skills', 'communication', 'organizational skills', 'problem-solving']","devi is currently working as a ceo at devi software pvt ltd. Experience includes: hr at avni pvt (2024 - present); hr intern at cloudkart (2022 - 2024). Skilled in: interpersonal skills, communication, organizational skills, problem-solving.","[('devi software pvt ltd', 'ORG'), ('2024', 'DATE'), ('2022 - 2024', 'DATE')]",Decision Maker,"Subject: Vacancy for the Position of CEO at Dev Software Private Ltd
+
+Dear Devi,
+
+I am Kamashi, a professional HR working for Dev Software Private Ltd, a CCS company. I am writing to you regarding a vacancy for the position of CEO.
+
+As you are well aware, Dev Software Private Ltd is one of the top CCS companies in the country, with a strong management team and a growing client base. We are looking for a dynamic and committed leader to take the company to the next level.
+
+The ideal candidate for this role should possess the following skills:
+
+1. Interpersonal skills - We need a CEO who is friendly, approachable, and can build strong relationships with both employees and clients.
+
+2. Communication skills - We need a CEO who can communicate effectively with all levels of the organization, both internally and externally.
+
+3. Organizational skills - We need a CEO who can manage multiple projects at the same time, while ensuring a high-performing team.
+
+4. Problem-solving skills - We need a CEO who can identify and solve problems, both technical and non-technical, in the organization.
+
+In addition to these skills, we are looking for a CEO who can bring the following qualities and values to the company:
+
+1. Strong work ethic - We need a",4,2,0,Positive
